@@ -10,7 +10,9 @@ namespace cse {
 
     typedef std::unordered_map< Entity, Component > Map;
     
-
+    // Entities and their Components are bound together in a EntityMap.
+    // The wrapper around the collection facilitates fwd decl and makes
+    // it easier to swap out the map if needed.
     class EntityMap {
     public:
         Map::iterator begin() { return entities_.begin(); }

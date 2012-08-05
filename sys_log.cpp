@@ -12,6 +12,18 @@ using namespace cse;
 namespace {
 
 
+    inline std::ostream& operator<<(std::ostream& os, const Point2D& p) {
+        os << p.x << "," << p.y;
+        return os;
+    }
+
+
+    inline std::ostream& operator<<(std::ostream& os, const Vector2D& p) {
+        os << p.x << "," << p.y;
+        return os;
+    }
+
+
     class LogToStdout : public boost::static_visitor<void> {
     public:
         LogToStdout(int indent=0) : indent_(indent) {}
