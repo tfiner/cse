@@ -49,27 +49,19 @@ std::ostream& operator<<(std::ostream& os, const Vector2D& p) {
 
 
 typedef boost::variant< int, float, std::string, Point2D, Vector2D> CompVal;
-// typedef int CompVal;
 typedef std::map< CompKey, CompVal, CompKeyLess > CompMap;
 typedef std::unordered_map< cse::Entity, CompMap > EntityMap;
 
 // This takes two variants and if 
 // one is a position and the other is a vector,
 // updates the position with the vector as a velocity.
-/*
+
 class UpdatePosition
     : public boost::static_visitor<void> {
 public:
-    void operator()( const Point2D& p, const Vector2D& v ) const {
-        assert( !"You can't add a vector to a const point!" );
-    }
-
-    void operator()( const Vector2D& v, const Point2D& p ) const {
-        assert( !"You can't add a point to a vector!" );
-    }
-
-    void operator()( Vector2D& v, const Point2D& p ) const {
-        assert( !"You can't add a point to a vector!" );
+    template<typename T, typename U> 
+    void operator()( const T& t, const U& u ) const {
+        assert( !"This function is only valid for position vs vector!" );
     }
 
     void operator()( Point2D& p, const Vector2D& v ) const
@@ -77,9 +69,7 @@ public:
         p.x += v.x;
         p.y += v.y;
     }
-
 };
-*/
 
 class LogToStdout : public boost::static_visitor<void> {
 public:
@@ -98,28 +88,36 @@ public:
     int indent_;
 };
 
-void PhysicsSys( EntityMap& em ) {
-    for( auto & e : em ) {
 
-        auto name = em.find(Name);
-        if ( name != em.end() ) {
-            auto & var = name->second;
-//            auto & vars = boost::get<int>(var);
-//            std::cout << vars;
-//            boost::apply_visitor( LogToStdout(), var );
+void LogSystem( const EntityMap& em ) {
+    using namespace std;
+    for ( auto e : em ) {
+        cout << "entity: " << e.first << "\n";
+
+        auto & comps = e.second;
+        for ( auto & c : comps ) {
+            cout << "   key: " << c.first << " value: ";
+            boost::apply_visitor( LogToStdout(3), c.second );
+            cout <<  endl;
         }
+    }
+}
+
+void PhysicsSystem( EntityMap& em ) {
+    for( auto & e : em ) {
+        auto & comps = e.second;
 
         // If the entity has components for position and vector, then
         // update the position component.
-        auto pos = em.find(Position);
-        if ( pos == em.end() )
+        auto pos = comps.find(Position);
+        if ( pos == comps.end() )
             continue;
 
-        auto vel = em.find(Velocity);
-        if ( vel == em.end() )
+        auto vel = comps.find(Velocity);
+        if ( vel == comps.end() )
             continue;
 
-//        boost::apply_visitor( UpdatePosition(), *pos, *vel );
+        boost::apply_visitor( UpdatePosition(), pos->second, vel->second );
     }
 }
 
@@ -138,36 +136,20 @@ int main( int argc, char** argv ) {
     CompMap cm;
     cm[Name] = cv;
     cm[Position] = Point2D(1,2);
+    cm[Velocity] = Vector2D(3,4);
     boost::apply_visitor( LogToStdout(), cm[Name] );
     cout << endl;
 
     EntityMap em;
     em.insert( make_pair(0, cm) );
 
-    for ( auto e : em ) {
-        cout << "entity: " << e.first << "\n";
-        auto & comps = e.second;
-        for ( auto & c : comps ) {
-            cout << "   key: " << c.first << " value: ";
-        // auto comps = em.equal_range(0);
-        // for ( auto c = comps.first; c != comps.second; ++c ) {
-            boost::apply_visitor( LogToStdout(3), c.second );
-            cout <<  endl;
+    cout << "pre physics:\n";
+    LogSystem( em );
+    PhysicsSystem( em );
 
-            // for( auto v : c.second ) 
-            //     boost::apply_visitor( LogToStdout(3), v.second );
-        }
-    }
+    cout << "post physics:\n";
+    LogSystem( em );
 
-/*
-    CompMap cm;
-    cm[Name] = "0";
-    // cm[Position] = Point2D(0,0);
-    // cm[Velocity] = Vector2D(0,0);
-
-    EntityMap em;
-    em.insert( std::make_pair(0, cm) );
-*/
     return 0;
 }
 
