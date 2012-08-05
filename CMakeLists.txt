@@ -27,7 +27,9 @@ include_directories( ${CMAKE_CURRENT_SOURCE_DIR} )
 include_directories( SYSTEM ${Boost_INCLUDE_DIR} )
 
 set(SRCS 
-    comptest.cpp sys_physics.cpp
+    comptest.cpp 
+    sys_physics.cpp
+    sys_log.cpp
 )
 
 add_executable(test ${SRCS} )

@@ -1,0 +1,1856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"en",
+				"entities_"
+			],
+			[
+				"V",
+				"Velocity	CompKey"
+			],
+			[
+				"Comp",
+				"CompKeyLess	struct"
+			],
+			[
+				"e",
+				"end()	iterator"
+			],
+			[
+				"Po",
+				"Point2D	struct"
+			],
+			[
+				"Ve",
+				"Vector2D	struct"
+			],
+			[
+				"c",
+				"c_str() const	const _CharT *"
+			],
+			[
+				"BOOST_AUT",
+				"BOOST_AUTO_TEST_CASE(test_name)	macro"
+			],
+			[
+				"find",
+				"find_last_not_of(const _CharT *__s, size_type __pos, size_type __n) const	size_type"
+			],
+			[
+				"fin",
+				"find_first_not_of(const basic_string<_CharT, _Traits, _Alloc> &__str) const	size_type"
+			],
+			[
+				"line",
+				"lineCount	int"
+			],
+			[
+				"ASL",
+				"ASL_PLAT_REL"
+			],
+			[
+				"ad",
+				"adobe_source_libraries"
+			],
+			[
+				"A",
+				"ALL_SRC"
+			],
+			[
+				"MA",
+				"MAC_OBJC_SRCS"
+			],
+			[
+				"Boost",
+				"Boost_FOUND"
+			],
+			[
+				"include",
+				"include_directories"
+			],
+			[
+				"CX",
+				"CXString"
+			],
+			[
+				"KE",
+				"KeyVal"
+			],
+			[
+				"get",
+				"getNameImpl"
+			],
+			[
+				"Key",
+				"KeyVal"
+			],
+			[
+				"ac",
+				"access_"
+			],
+			[
+				"Acc",
+				"AccessName"
+			],
+			[
+				"Ac",
+				"AccessName"
+			],
+			[
+				"inclu",
+				"included_file"
+			],
+			[
+				"K",
+				"KIND_NAMES"
+			],
+			[
+				"kind",
+				"kindName"
+			],
+			[
+				"kin",
+				"kindName"
+			],
+			[
+				"ki",
+				"kind_"
+			],
+			[
+				"cla",
+				"clangArgs"
+			],
+			[
+				"null",
+				"nullptr"
+			],
+			[
+				"ast",
+				"astFile"
+			],
+			[
+				"CLANG_",
+				"CLANG_VERSION"
+			],
+			[
+				"s",
+				"second"
+			],
+			[
+				"ami",
+				"amicables"
+			],
+			[
+				"sum",
+				"sum_of_amicable_pairs"
+			],
+			[
+				"am",
+				"amicable"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"div",
+				"divisors"
+			],
+			[
+				"dow",
+				"dow_begin"
+			],
+			[
+				"nu",
+				"num_days"
+			],
+			[
+				"da",
+				"days_this_year"
+			],
+			[
+				"is",
+				"is_leap_year"
+			],
+			[
+				"num",
+				"num_sundays"
+			],
+			[
+				"ma",
+				"max_"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"ro",
+				"rowMaxIdx"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"add",
+				"addends"
+			],
+			[
+				"string",
+				"stringstream"
+			],
+			[
+				"NAM",
+				"NAMES_MOD_100"
+			],
+			[
+				"N",
+				"NAMES_MOD_10"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"dep",
+				"depth"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"Q",
+				"queue"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"Co",
+				"CollatzNext"
+			],
+			[
+				"un",
+				"unordered_map"
+			],
+			[
+				"tr",
+				"tree_"
+			],
+			[
+				"chi",
+				"child2_"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"par",
+				"parents"
+			],
+			[
+				"Col",
+				"CollatzPrev"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"pa",
+				"parent_"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"chil",
+				"child2_"
+			],
+			[
+				"iter",
+				"iter"
+			],
+			[
+				"child",
+				"child1_"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"key",
+				"keyVal"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"pro",
+				"prods"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"App",
+				"AppendMultiplyNoOpt"
+			],
+			[
+				"el",
+				"elapsedTime"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"Re",
+				"ReadDigits"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"f",
+				"foo"
+			],
+			[
+				"init",
+				"Init"
+			],
+			[
+				"In",
+				"Int"
+			],
+			[
+				"not",
+				"notPrimes"
+			],
+			[
+				"ra",
+				"range_"
+			],
+			[
+				"ins",
+				"inserter"
+			],
+			[
+				"gene",
+				"generate"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"S",
+				"SeedRow"
+			],
+			[
+				"C",
+				"CalcNotPrimes"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"va",
+				"value_type"
+			],
+			[
+				"Valu",
+				"ValueType"
+			],
+			[
+				"valu",
+				"value_type"
+			],
+			[
+				"ds",
+				"dstBegin"
+			],
+			[
+				"type",
+				"typename"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"Fir",
+				"FirstPass"
+			],
+			[
+				"Not",
+				"NotPrimes"
+			],
+			[
+				"row",
+				"rowSize"
+			],
+			[
+				"sq",
+				"sq_of_sum"
+			],
+			[
+				"int",
+				"Ints"
+			],
+			[
+				"EXPE",
+				"EXPECT_TRUE"
+			],
+			[
+				"hit",
+				"hitName"
+			],
+			[
+				"get_",
+				"get_material"
+			],
+			[
+				"ASS",
+				"ASSERT_EQ"
+			],
+			[
+				"hi",
+				"hit_an_object"
+			],
+			[
+				"mat",
+				"matName"
+			],
+			[
+				"MAter",
+				"MaterialPtr"
+			],
+			[
+				"dum",
+				"dumpMatStore"
+			],
+			[
+				"Mater",
+				"MaterialMap"
+			],
+			[
+				"v",
+				"v_"
+			],
+			[
+				"Sam",
+				"SampleGenerator2D"
+			],
+			[
+				"CMAKE_COMPL",
+				"CMAKE_CXX_COMPILER"
+			],
+			[
+				"rtf",
+				"rtfgu-debug"
+			],
+			[
+				"incu",
+				"include <header>	"
+			],
+			[
+				"using",
+				"using namespace identifier	"
+			],
+			[
+				"lib",
+				"lib_helpers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "entity.h",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix",
+				"name": "#pragma once"
+			}
+		},
+		{
+			"file": "component.h",
+			"settings":
+			{
+				"buffer_size": 737,
+				"line_ending": "Unix",
+				"name": "#pragma once"
+			}
+		},
+		{
+			"file": "comptest.cpp",
+			"settings":
+			{
+				"buffer_size": 1509,
+				"line_ending": "Unix",
+				"name": "#include \"entity.h\""
+			}
+		},
+		{
+			"file": "entity_map.h",
+			"settings":
+			{
+				"buffer_size": 641,
+				"line_ending": "Unix",
+				"name": "#pragma once"
+			}
+		},
+		{
+			"file": "sys_physics.cpp",
+			"settings":
+			{
+				"buffer_size": 1331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 1076,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "point.h",
+			"settings":
+			{
+				"buffer_size": 330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vector.h",
+			"settings":
+			{
+				"buffer_size": 334,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "cmake",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"clip",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"clang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublime c",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"clang c",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sub",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gen",
+				"Sweyla's Color Theme Generator: Generate dark!"
+			],
+			[
+				"them",
+				"Sweyla's Color Theme Generator: Generate dark!"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"comi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"cle",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"cl",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clea",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clear",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clan",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"cla",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Graph Current File"
+			],
+			[
+				"cmak",
+				"Set Syntax: CMake"
+			],
+			[
+				"pro",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 187.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tim/projects/cse/comp_keys.h",
+		"/Users/tim/projects/cse/sys_physics.h",
+		"/Users/tim/projects/cse/vector.h",
+		"/Users/tim/projects/cse/sys_physics.cpp",
+		"/Users/tim/projects/cse/point.h",
+		"/Users/tim/projects/stack_overflow/weak_fun.cpp",
+		"/Users/tim/projects/stack_overflow/overload.cpp",
+		"/Users/tim/projects/stack_overflow/v3.h",
+		"/Users/tim/projects/stack_overflow/v3.cpp",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tim/projects/adobe_asl/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/test/modal_dialog_interface/main.cpp",
+		"/Users/tim/projects/asl_test/CMakeLists.txt",
+		"/Users/tim/projects/asl_test/main.cpp",
+		"/Users/tim/projects/stack_overflow/array.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/modal_dialog_interface/CMakeLists.txt",
+		"/Users/tim/Documents/Captain's Log - 6:26:12.txt",
+		"/Users/tim/projects/stack_overflow/proxy.cpp",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tim/projects/proxy.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/future/modal_dialog_interface.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/dictionary_arg_stream.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/dictionary.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/future/source/modal_dialog_interface.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/modal_dialog_interface/resources/modal_dialog_interface.nib/objects.xib",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tim/projects/adobe_asl/platform_release/test/property_model_tidy/main.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/property_model_tidy/property_model_tidy_main.cpp",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/zenburn/zenburn.tmTheme",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/zenburn/package-metadata.json",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/zenburn/README.md",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/zenburn/zenburn.tmTheme.cache",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/Default/comment.py",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/CMake.sublime-settings",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/subject_concept.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/virtual_machine.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/poly_subject.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/poly_direct_object.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/poly_sentence.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/expression_sentence.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/CMakeLists.txt",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/regular_concept.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sentences/command_system_fwd.hpp",
+		"/Users/tim/projects/adobe_asl/README",
+		"/Users/tim/projects/adobe_asl/platform_release/test/function_pack/main.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/sequence_mvc_muldex/main.cpp",
+		"/Users/tim/Documents/june-status.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/sequence_mvc_muldex.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/function_pack.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/sheet_hooks.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/sequence_view.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/vector.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/xstr_bench/main.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/xstr_test/main.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/windows/adobe/future/widgets/sources/platform_optional_panel.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/lower_bound/lower_bound_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/string/string_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/name/name_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/conversion/conversion_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/equal_range/equal_range_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/any_regular/any_regular_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/forest/forest_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/test/check_traversable.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/algorithm/clamp/clamp_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/unit_tests/name/fail_int_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/algorithm/select.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/sudoku/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/sudoku/sudokus.txt",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/property_model_eval/pmeval.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/sudoku/sudoku_utilities.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/implementation/expression_formatter.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/any_regular.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/expression_filter/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/tools/post_intel_tbb_build.pl",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/tools/boost_1_44_0_patches.txt",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/closed_hash/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/vector/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/test/check_regular.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/typeinfo/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/move/main.cpp",
+		"/Users/tim/projects/adobe_asl/asl.sublime-project",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/forest_smoke/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/n_queens/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/poly/poly_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/timer.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/eve_smoke/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/dictionary_benchmark/main.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/adam_smoke/adam_smoke_test.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/test/adam_tutorial/main.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/test/bffd/readme.txt",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/bffd/parser.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/bffd/common.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/bffd/interface.hpp",
+		"/opt/local/include/gcc47/c++/cmath",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/source/any_regular.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/source/bffd/common.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/name_fwd.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/source/name.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/source/bffd/analyzer.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/source/expression_formatter.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_widget_utils.cpp",
+		"/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Headers/ATSTypes.h",
+		"/System/Library/Frameworks/ApplicationServices.framework/Frameworks/QD.framework/Headers/ATSUnicodeTypes.h",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/headers/platform_widget_utils.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_tab_group.cpp",
+		"/Users/tim/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_window.cpp",
+		"/opt/local/include/boost/filesystem/v3/path.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/macintosh_memory.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_image.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_presets.cpp",
+		"/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/MacTypes.h",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/headers/platform_button.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/sources/platform_button.cpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe/typeinfo.hpp",
+		"/Users/tim/projects/adobe_asl/adobe_source_libraries/source/typeinfo.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/widgets/headers/macintosh_mouse_wheel_handler.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/source/platform_cursor.mm",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/source/macintosh_filesystem.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/future/widgets/headers/control_button.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/adobe/future/widgets/sources/edit_number.cpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/future/macintosh_events.hpp",
+		"/Users/tim/projects/adobe_asl/platform_release/macintosh/adobe/macintosh_carbon_safe.hpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/tim/projects/adobe_asl/,*.hpp",
+			"/Users/tim/projects/adobe_asl,*.hpp",
+			"/Users/tim/projects/adobe_asl,*.txt",
+			"/Users/tim/projects/adobe_asl,*.hpp,*.cpp",
+			"/Users/tim/projects/adobe_asl,*.hpp",
+			"/Users/tim/projects/adobe_asl",
+			"*.hpp,/Users/tim/projects/adobe_asl",
+			"*.hpp,/Users/tim/projects/adobe_asl/platform_release",
+			"*.hpp,/Users/tim/projects/adobe_asl/adobe_source_libraries/adobe",
+			"/Users/tim/projects/adobe_asl,*.hpp",
+			"/Users/tim/projects/adobe_asl,*.h",
+			"/Users/tim/projects/adobe_asl,*.h,*.cpp",
+			"/Users/tim/projects/adobe_asl,*.h",
+			"/Users/tim/projects/adobe_asl/adobe_source_libraries/test,*.cpp",
+			"/Users/tim/projects/adobe_asl/,*.hpp,*.cpp",
+			"/Users/tim/projects/adobe_asl/,*.h,*.cpp",
+			"/Users/tim/projects/adobe_asl/,*.h",
+			"/Users/tim/projects/adobe_asl/",
+			"/Users/tim/projects/adobe_asl/platform_release/",
+			"/Users/tim/Downloads/adobe",
+			"",
+			"*.h",
+			"*.txt",
+			"",
+			"<open folders>",
+			"",
+			"/opt/local/include",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"bound",
+			"SharedFunc",
+			"bear",
+			"toilet",
+			"NullImpl",
+			"dictionary_t",
+			"dialog_result_t",
+			"icon_directory_path",
+			"is_checked",
+			"/*",
+			"OSX_ICON_FILES",
+			"cmd",
+			"auto",
+			"line",
+			"set_simple_variable_lookup",
+			"ADOBE_CLASS_REQUIRE",
+			"ADOBE_REQUIRES",
+			"move_ctor",
+			"SubjectConcept",
+			"concept",
+			"SubjectConcept",
+			"CMAKE_CXX_FLAGS",
+			"ADOBE_HAS_CPLUS0X_CONCEPTS",
+			"ADOBE_CLASS_REQUIRE",
+			"update()",
+			".update()",
+			"sequence_model",
+			"proc_m == false",
+			"move_backward",
+			"basic_sheet_t",
+			"layout_sheet",
+			"basic_sheet_t",
+			"ADOBE_FUNCTION_NAMED_ARG",
+			"ADOBE_FUNCTION_UNNAMED_ARG",
+			", boost::filesystem::native",
+			"import_preferences",
+			"native_file_string",
+			", boost::filesystem::native",
+			"object",
+			"value",
+			"value_m",
+			"any_regular_t",
+			"remote_address",
+			", boost::filesystem::native",
+			"native_file_string",
+			", bfs::native",
+			"native_file_string",
+			", bfs::native",
+			"native_file_string",
+			"tbb",
+			"ADOBE_STD_SERIALIZATION",
+			"name_t",
+			"basic_omanipulator",
+			"fonts.h",
+			"font.h",
+			"get_classic_font_id",
+			"FMFontFamily",
+			"get_classic_font_id",
+			"false",
+			"clang",
+			";",
+			"top",
+			"kHelpWindowClass",
+			");",
+			"button",
+			"button_t",
+			"show_",
+			"shouw_",
+			"fold_all",
+			"show_panel",
+			"showPanel",
+			"set",
+			"type_info_t",
+			"bad_cast",
+			"_LP64",
+			"NavDialogRef",
+			"event_t",
+			"is_focused",
+			"/*",
+			"event_handler_t",
+			"event_t",
+			"state_cell_unique_name",
+			"auto_resource",
+			"BOOST_MSVC",
+			"move_backward",
+			"BOOST_Dir",
+			"_FOUND",
+			"thread",
+			"TBB_INTERFACE_VERSION",
+			"uuid_t",
+			"uninitialized_move",
+			"/*",
+			"boost",
+			"macosx-version-min",
+			"boost",
+			"usr",
+			"endif",
+			"CXCursor_TranslationUnit",
+			"kind_",
+			"cxfile",
+			"PARENT",
+			"skipping",
+			"include",
+			"inclusion",
+			"Statement",
+			"CXSourceLocation",
+			"include",
+			"(CXType_\\w+)\\W+=\\W+(\\d|\\w)+,*",
+			"CURSOR_KIND_NAMES",
+			"KindName",
+			"KIND_NAMES",
+			"CXType",
+			"clang_getCursorType",
+			"First",
+			"Last",
+			"namespace",
+			"(CXCursor_\\w+)\\W+=\\W+(\\d|\\w)+,*",
+			"/\\*.*\\*/",
+			"/\\*\\*.*\\*/",
+			"CXCursor_ClassDecl",
+			"clangArgs",
+			"CXTranslationUnit",
+			"TU",
+			"CXCursor_ClassDecl",
+			"enum",
+			"CXString",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ErrorImpl",
+			"key_",
+			"{ \\1, \"\\1\" },",
+			"CURSOR_NAMES",
+			"CursorName",
+			"CURSOR_KIND_NAMES",
+			"{ \\1, \"\\1\" },",
+			"",
+			"AppendMultiplyRunning",
+			"IntSet",
+			"index",
+			"NotPrimes",
+			"IntSet",
+			"Impl",
+			"Cache",
+			"GeometricObjects",
+			"compiler_version"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "entity.h",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#pragma once",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "component.h",
+					"settings":
+					{
+						"buffer_size": 737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								706,
+								715
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#pragma once",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "comptest.cpp",
+					"settings":
+					{
+						"buffer_size": 1509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"entity.h\"",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 664.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "entity_map.h",
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#pragma once",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sys_physics.cpp",
+					"settings":
+					{
+						"buffer_size": 1331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "CMakeLists.txt",
+					"settings":
+					{
+						"buffer_size": 1076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CMake/CMake.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "point.h",
+					"settings":
+					{
+						"buffer_size": 330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vector.h",
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/tim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 147.0
+	},
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"modalmain",
+				"platform_release/test/modal_dialog_interface/main.cpp"
+			],
+			[
+				"cmak",
+				"platform_release/test/CMakeLists.txt"
+			],
+			[
+				"cma",
+				"adobe_source_libraries/CMakeLists.txt"
+			],
+			[
+				"modal",
+				"platform_release/adobe/future/source/modal_dialog_interface.cpp"
+			],
+			[
+				"sub",
+				"platform_release/test/sentences/subject_concept.hpp"
+			],
+			[
+				"comsysf",
+				"platform_release/test/sentences/command_system_fwd.hpp"
+			],
+			[
+				"funcmain",
+				"platform_release/test/function_pack/main.cpp"
+			],
+			[
+				"muldex",
+				"platform_release/test/sequence_mvc_muldex/main.cpp"
+			],
+			[
+				"seqmvc",
+				"platform_release/test/sequence_mvc_muldex/main.cpp"
+			],
+			[
+				"platrelcmake",
+				"platform_release/test/CMakeLists.txt"
+			],
+			[
+				"xstrmain",
+				"platform_release/test/xstr_test/main.cpp"
+			],
+			[
+				"",
+				"CMakeLists.txt"
+			],
+			[
+				"read",
+				"README"
+			],
+			[
+				"unitna",
+				"adobe_source_libraries/test/unit_tests/name/name_test.cpp"
+			],
+			[
+				"unitstr",
+				"adobe_source_libraries/test/unit_tests/string/string_test.cpp"
+			],
+			[
+				"testlower",
+				"adobe_source_libraries/test/unit_tests/lower_bound/lower_bound_test.cpp"
+			],
+			[
+				"stringte",
+				"adobe_source_libraries/test/unit_tests/string/string_test.cpp"
+			],
+			[
+				"equt",
+				"adobe_source_libraries/test/unit_tests/equal_range/equal_range_test.cpp"
+			],
+			[
+				"conte",
+				"adobe_source_libraries/test/unit_tests/conversion/conversion_test.cpp"
+			],
+			[
+				"unitfor",
+				"adobe_source_libraries/test/unit_tests/forest/forest_test.cpp"
+			],
+			[
+				"unitany",
+				"adobe_source_libraries/test/unit_tests/any_regular/any_regular_test.cpp"
+			],
+			[
+				"any_re",
+				"adobe_source_libraries/adobe/any_regular.hpp"
+			],
+			[
+				"expression_formatter.hpp",
+				"platform_release/adobe/implementation/expression_formatter.hpp"
+			],
+			[
+				"expremain",
+				"adobe_source_libraries/test/expression_filter/main.cpp"
+			],
+			[
+				"close",
+				"adobe_source_libraries/test/closed_hash/main.cpp"
+			],
+			[
+				"check_reg",
+				"adobe_source_libraries/adobe/test/check_regular.hpp"
+			],
+			[
+				"closed",
+				"adobe_source_libraries/test/closed_hash/main.cpp"
+			],
+			[
+				"typema",
+				"adobe_source_libraries/test/typeinfo/main.cpp"
+			],
+			[
+				"move",
+				"adobe_source_libraries/test/move/main.cpp"
+			],
+			[
+				"movemain",
+				"adobe_source_libraries/test/move/main.cpp"
+			],
+			[
+				"forest_sm",
+				"adobe_source_libraries/test/forest_smoke/main.cpp"
+			],
+			[
+				"n_qumain",
+				"adobe_source_libraries/test/n_queens/main.cpp"
+			],
+			[
+				"expression_formatter",
+				"platform_release/adobe/implementation/expression_formatter.hpp"
+			],
+			[
+				"main",
+				"adobe_source_libraries/test/dictionary_benchmark/main.cpp"
+			],
+			[
+				"timer",
+				"adobe_source_libraries/adobe/timer.hpp"
+			],
+			[
+				"cm",
+				"CMakeLists.txt"
+			],
+			[
+				"bffd",
+				"platform_release/adobe/bffd/interface.hpp"
+			],
+			[
+				"re",
+				"README"
+			],
+			[
+				"name",
+				"adobe_source_libraries/source/name.cpp"
+			],
+			[
+				"macfile",
+				"platform_release/macintosh/adobe/future/source/macintosh_filesystem.cpp"
+			],
+			[
+				"mak",
+				"platform_release/CMakeLists.txt"
+			],
+			[
+				"maceve",
+				"platform_release/macintosh/adobe/future/macintosh_events.hpp"
+			],
+			[
+				"pro",
+				"asl.sublime-project"
+			],
+			[
+				"macsaf",
+				"platform_release/macintosh/adobe/macintosh_carbon_safe.hpp"
+			],
+			[
+				"maccar",
+				"platform_release/macintosh/adobe/macintosh_carbon_safe.hpp"
+			],
+			[
+				"mace",
+				"platform_release/macintosh/adobe/future/macintosh_events.hpp"
+			],
+			[
+				"butfac",
+				"platform_release/adobe/future/widgets/sources/button_factory.cpp"
+			],
+			[
+				"platbut",
+				"platform_release/macintosh/adobe/future/widgets/headers/platform_button.hpp"
+			],
+			[
+				"macev",
+				"platform_release/macintosh/adobe/future/macintosh_events.hpp"
+			],
+			[
+				"macfocus",
+				"platform_release/macintosh/adobe/future/widgets/headers/macintosh_focus_handler.hpp"
+			],
+			[
+				"platdis",
+				"platform_release/windows/adobe/future/widgets/headers/platform_display_number.hpp"
+			],
+			[
+				"numbfacc",
+				"platform_release/adobe/future/widgets/sources/display_number_factory.cpp"
+			],
+			[
+				"widgeut",
+				"platform_release/adobe/future/widgets/headers/widget_utils.hpp"
+			],
+			[
+				"macinev",
+				"platform_release/macintosh/adobe/future/macintosh_events.hpp"
+			],
+			[
+				"display_num",
+				"platform_release/adobe/future/widgets/sources/display_number_factory.cpp"
+			],
+			[
+				"any",
+				"adobe_source_libraries/adobe/any_regular.hpp"
+			],
+			[
+				".gi",
+				".gitignore"
+			],
+			[
+				"memo",
+				"adobe_source_libraries/adobe/memory.hpp"
+			],
+			[
+				"maceven",
+				"platform_release/macintosh/adobe/future/macintosh_events.hpp"
+			],
+			[
+				"vme",
+				"platform_release/adobe/future/widgets/sources/virtual_machine_extension.cpp"
+			],
+			[
+				"widgfac",
+				"platform_release/adobe/future/widgets/sources/widget_factory_registry.cpp"
+			],
+			[
+				"virt",
+				"platform_release/adobe/future/widgets/headers/virtual_machine_extension.hpp"
+			],
+			[
+				"cocoa",
+				"platform_release/macintosh/adobe/future/source/macintosh_cocoa_bridge.mm"
+			],
+			[
+				"virtualmaex",
+				"platform_release/adobe/future/widgets/sources/virtual_machine_extension.cpp"
+			],
+			[
+				"virtua",
+				"platform_release/adobe/future/widgets/headers/virtual_machine_extension.hpp"
+			],
+			[
+				"vect",
+				"adobe_source_libraries/adobe/vector.hpp"
+			],
+			[
+				"regul",
+				"adobe_source_libraries/adobe/regular_concept.hpp"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"futu",
+				"platform_release/future_src.txt"
+			],
+			[
+				"wid",
+				"platform_release/widgets_src.txt"
+			],
+			[
+				"adam.",
+				"source/adam.cpp"
+			],
+			[
+				"zuid",
+				"source/zuid.cpp"
+			],
+			[
+				"xml",
+				"source/xml_lex.cpp"
+			],
+			[
+				"pol",
+				"adobe/poly.hpp"
+			],
+			[
+				"table",
+				"adobe/table_index.hpp"
+			],
+			[
+				"vector.",
+				"adobe/vector.hpp"
+			],
+			[
+				"cmath.",
+				"adobe/cmath.hpp"
+			],
+			[
+				"test1",
+				"Debug/test1"
+			],
+			[
+				"folly-co",
+				"folly/SConstruct.double-conversion"
+			],
+			[
+				"co",
+				"folly/configure"
+			],
+			[
+				"wor",
+				"rtfgu/src/World.cpp"
+			],
+			[
+				"hit",
+				"rtfgu/src/geo_query/hit_iter.h"
+			],
+			[
+				"oct",
+				"rtfgu/src/geo_obj/OctoGrid.cpp"
+			],
+			[
+				"comp",
+				"rtfgu/src/geo_obj/Compound.cpp"
+			],
+			[
+				"wo",
+				"rtfgu/src/World.cpp"
+			],
+			[
+				"mater",
+				"rtfgu/src/materials/MaterialStore.cpp"
+			],
+			[
+				"sph",
+				"rtfgu/include/Sphere.h"
+			],
+			[
+				"com",
+				"rtfgu/include/Compound.h"
+			],
+			[
+				"ptr",
+				"rtfgu/include/ptr_types.h"
+			],
+			[
+				"octogr",
+				"rtfgu/include/OctoGrid.h"
+			],
+			[
+				"test_o",
+				"rtfgu/test/test_octogrid.cpp"
+			],
+			[
+				"materialst",
+				"rtfgu/src/materials/MaterialStore.cpp"
+			],
+			[
+				"shadere",
+				"rtfgu/include/ShadeRec.h"
+			],
+			[
+				"jso",
+				"lib_helpers/include/json_helpers.h"
+			],
+			[
+				"test_oct",
+				"rtfgu/test/test_octree.cpp"
+			],
+			[
+				"test_sh",
+				"rtfgu/test/test_shaders.cpp"
+			],
+			[
+				"pt",
+				"rtfgu/include/ptr_types.h"
+			],
+			[
+				"world",
+				"rtfgu/include/World.h"
+			],
+			[
+				"light",
+				"rtfgu/include/Light.h"
+			],
+			[
+				"envi",
+				"rtfgu/src/lights/EnvironmentLight.cpp"
+			],
+			[
+				"ambi",
+				"rtfgu/src/lights/AmbientOccluderLight.cpp"
+			],
+			[
+				"hem",
+				"rtfgu/src/samplers/Hemispherical.cpp"
+			],
+			[
+				"brdf",
+				"rtfgu/src/shaders/BRDF.cpp"
+			],
+			[
+				"cam",
+				"rtfgu/src/cameras/Camera.cpp"
+			],
+			[
+				"sampl",
+				"rtfgu/include/SampleGenerator.h"
+			],
+			[
+				"brd",
+				"rtfgu/include/BRDF.h"
+			],
+			[
+				"test_he",
+				"lib_helpers/include/test_helpers.h"
+			],
+			[
+				"json_he",
+				"lib_helpers/include/json_helpers.h"
+			],
+			[
+				"ce",
+				"rtfgu/src/geo_query/octree_cell.h"
+			],
+			[
+				"bui",
+				"rtfgu_cmdline/src/builders.cpp"
+			],
+			[
+				"ren",
+				"rtfgu_cmdline/src/renderer_png.h"
+			],
+			[
+				"sma",
+				"lib_helpers/include/smart_pointer.h"
+			],
+			[
+				"geome",
+				"rtfgu/include/GeometricObject.h"
+			],
+			[
+				"ire",
+				"rtfgu/include/IRenderer.h"
+			],
+			[
+				"vie",
+				"rtfgu/src/ViewPlane.cpp"
+			],
+			[
+				"view",
+				"rtfgu/src/ViewPlane.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true
+}
